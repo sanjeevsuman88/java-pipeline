@@ -8,5 +8,6 @@ public class Addtwointeger {
         int sum = first + second;
 
         System.out.println("The sum is: " + sum);
+	System.out.println("New changes");
     }
 }
